@@ -6,8 +6,14 @@ h1{
     font-size: 40px;
     padding-left: 50px;
 }
-p{
-    padding: 50px;
+h4{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+h3{
+  margin-left: 70px;
+  margin-bottom: 50px;
 }
 section{
     display: flex;
@@ -32,7 +38,7 @@ section img{
     padding: 10px 40px;
     font-weight: 700;
     border-radius: 10px;
-    margin-left: 50px;
+    margin-left: 70px;
 }
 .top-banner{
     background-image: url(image/exp-bg.png);
@@ -44,4 +50,13 @@ section img{
 }
 h1{
     text-align: center;
+}
+.recipie-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 20px;
+    
 }
