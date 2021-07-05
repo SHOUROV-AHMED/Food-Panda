@@ -4,7 +4,8 @@ body{
 }
 h1{
     font-size: 40px;
-    padding-left: 50px;
+   
+    
 }
 h4{
     margin-left: 50px;
@@ -34,11 +35,11 @@ section img{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(blue ,cyan);
-    color: rgb(14, 13, 13);
+    color: rgb(255, 254, 254);
     padding: 10px 40px;
     font-weight: 700;
     border-radius: 10px;
-    margin-left: 70px;
+    margin-left: 70px;  
 }
 .top-banner{
     background-image: url(image/exp-bg.png);
@@ -59,4 +60,7 @@ h1{
     box-shadow: 10px 10px 50px gray;
     border-radius: 20px;
     
+}
+p{
+    margin-bottom: 50px;
 }
