@@ -20,12 +20,12 @@ h3{
 p{
     margin-bottom: 50px;
 } 
-.ho{
+.welcome-area{
     background-color: pink;
     text-align: center;
     margin: 0;
 }
-.box{
+.f-search-area{
     background-color: aqua;
     border: 7px solid pink;
     margin: 50px 50px;
@@ -61,11 +61,11 @@ section img{
     
    
 }
-.top-banner{
+.top-banner-area{
     background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
 }
-.partnership{
+.partnership-area{
     background-image: url(image/Frame\ 57.jpg);
   
 }
@@ -95,7 +95,7 @@ footer  {
     border-radius: 50px;
     padding: 20px ;
 }
-.form-area{
+.submit-form-area{
     margin: 50px 500px;
     background-color: pink;
     border: 20px solid aqua;
